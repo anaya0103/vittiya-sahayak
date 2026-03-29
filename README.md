@@ -173,11 +173,4 @@ This project is licensed under the MIT License.
 
 ```
 
----
 
-This README links to your **backend README** for detailed setup, while giving a **complete overview of the full project**.  
-
-If you want, I can also create a **short “Hackathon / Team-friendly version in Hinglish”** that’s easy to read and follow in 5 minutes.  
-
-Do you want me to make that too?
-```
